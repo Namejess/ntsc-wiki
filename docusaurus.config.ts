@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "NTSC Wiki",
   tagline: "Incroyable",
-  favicon: "img/favicon.ico",
+  favicon: "img/ntsc_favicon.png",
 
   // Set the production url of your site here
   url: "https://namejess.github.io",
@@ -68,17 +68,17 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "logo ntsc",
+        src: "img/logo_ntsc.png",
       },
       items: [
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Wiki",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}  C'est fou Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

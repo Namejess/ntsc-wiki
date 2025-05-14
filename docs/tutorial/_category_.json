@@ -1,0 +1,8 @@
+{
+  "label": "Tutos",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Tous nos tutos pour la régie stream, le staff, le TO etc..."
+  }
+}
