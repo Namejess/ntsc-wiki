@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkntsc_wiki=self.webpackChunkntsc_wiki||[]).push([[8671],{3448:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ntsc-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

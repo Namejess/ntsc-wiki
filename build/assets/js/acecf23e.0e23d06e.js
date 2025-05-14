@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkntsc_wiki=self.webpackChunkntsc_wiki||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/ntsc-wiki/blog","blogTitle":"Blog","authorsListPath":"/ntsc-wiki/blog/authors"}')}}]);
